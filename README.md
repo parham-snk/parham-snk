@@ -15,6 +15,6 @@ I am currently studying to gain more experience in nodejs, reactjs, mongodb, mys
 ---
 [![](https://visitcount.itsvg.in/api?id=parham-snk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## portfolio & Projects
+## 🪟 portfolio & Projects
 - [weatherapp project](https://parham-snk.github.io/weatherapp2/) ( reactJS , TailwindCss , ... )
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
