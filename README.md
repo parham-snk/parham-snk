@@ -17,6 +17,7 @@ I am currently studying to gain more experience in nodejs, reactjs, mongodb, mys
 
 ## 🪟 portfolio & Projects
 - [weatherapp project](https://parham-snk.github.io/weatherapp2/) ( reactJS , TailwindCss , ... )
-- [DNS-changer](https://github.com/parham-snk/change-dns) (nodejs,ElectronJs)
+- [DNS-changer](https://github.com/parham-snk/change-dns) ( nodejs , ElectronJs )
+- [Frequnecy-Converter](https://github.com/parham-snk/FrequencyConverter)( ffmpeg , ElectronJs )
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
