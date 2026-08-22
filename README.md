@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently studying to gain more experience in nodejs, reactjs, mongodb, mysql and typescript.
+I am parham sanjanaki and  currently studying to gain more experience in nodejs, reactjs , React-Native , PostgreSQL ,  mongodb, mysql and typescript , ... .
 
 
 ## 🌐 Socials:
